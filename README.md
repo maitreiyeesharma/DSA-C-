@@ -15,23 +15,23 @@ A comprehensive, industry-grade repository tracking my journey through foundatio
 ## 📌 Algorithmic Track & Progress Roadmap
 
 ### 1. Mathematical Foundations & Hashing
-* 🟩 **Element Frequency Analysis:** Native $O(N)$ lookup algorithms using frequency arrays.
-* 🟩 **Hashing Paradigms:** Comparative study of static hashing versus dynamic associative map containers.
+* **Element Frequency Analysis:** Native $O(N)$ lookup algorithms using frequency arrays.
+* **Hashing Paradigms:** Comparative study of static hashing versus dynamic associative map containers.
 
 ### 2. Sorting & Searching Methodologies
-* 🟩 **Bubble Sort:** Iterative neighbor-swapping architecture with boundary constraints ($n-i-1$) to eliminate redundant passes.
+* **Bubble Sort:** Iterative neighbor-swapping architecture with boundary constraints ($n-i-1$) to eliminate redundant passes.
   * **Time Complexity:** $O(N^2)$ Worst/Average | $O(N)$ Best Case (With optimized early termination flag)
   * **Space Complexity:** $O(1)$ Auxiliary Space (Strictly In-place)
-* ⬜ **Selection Sort:** *(Up Next)*
-* ⬜ **Insertion Sort:** *(Up Next)*
-* ⬜ **Divide & Conquer Sorting:** (Merge Sort / Quick Sort)
-* ⬜ **Binary Search Paradigms:** (Search Space Reductions)
+* **Selection Sort:** Classical comparison-based sort strategy.
+* **Insertion Sort:** Classical incremental sorting methodology.
+* **Divide & Conquer Sorting:** (Merge Sort / Quick Sort)
+* **Binary Search Paradigms:** (Search Space Reductions)
 
 ### 3. Linear & Non-Linear Data Structures (Upcoming)
-* ⬜ **Linked Lists:** (Singly, Doubly, Circular, and Pointer Manipulation)
-* ⬜ **Stacks & Queues:** (Monotonic Variants and Abstract Data Type Implementations)
-* ⬜ **Trees & Advanced Graphs:** (Hierarchical Traversals, DFS/BFS, Shortest Paths)
-* ⬜ **Dynamic Programming & Greedy:** (Optimizing Overlapping Subproblems)
+* **Linked Lists:** (Singly, Doubly, Circular, and Pointer Manipulation)
+* **Stacks & Queues:** (Monotonic Variants and Abstract Data Type Implementations)
+* **Trees & Advanced Graphs:** (Hierarchical Traversals, DFS/BFS, Shortest Paths)
+* **Dynamic Programming & Greedy:** (Optimizing Overlapping Subproblems)
 
 ---
 
