@@ -27,7 +27,7 @@ A comprehensive, industry-grade repository tracking my journey through foundatio
 * **Divide & Conquer Sorting:** (Merge Sort / Quick Sort)
 * **Binary Search Paradigms:** (Search Space Reductions)
 
-### 3. Linear & Non-Linear Data Structures (Upcoming)
+### 3. Linear & Non-Linear Data Structures 
 * **Linked Lists:** (Singly, Doubly, Circular, and Pointer Manipulation)
 * **Stacks & Queues:** (Monotonic Variants and Abstract Data Type Implementations)
 * **Trees & Advanced Graphs:** (Hierarchical Traversals, DFS/BFS, Shortest Paths)
